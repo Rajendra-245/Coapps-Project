@@ -5,5 +5,6 @@ their NHIF number.
 ## Techologies Used
 * Built using ``Python3.6.3``.
 * Web Version built using ``Django 1.11``.
-* Database Used is ``PostgreSQL``
-* ``JavaScript`` used for UI and UX design.
+* Database Used is ``SQL``
+* ``django
+* `` used for UI and UX design.
