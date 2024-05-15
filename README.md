@@ -6,5 +6,5 @@ their NHIF number.
 * Built using ``Python3.6.3``.
 * Web Version built using ``Django 1.11``.
 * Database Used is ``SQL``
-* ``django
+* ``react
 * `` used for UI and UX design.
